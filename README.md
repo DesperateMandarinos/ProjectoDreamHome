@@ -3,5 +3,8 @@ La conjunción del backend y frontend de nuestro proyecto para la concentración
 
 # Correciones
 
-A lo largo del proyecto se nos hicieron diferentes observaciones con respecto a nuestro proyecto.
-Es importante llevar un registro detallado de todas las correcciones realizadas en un modelo estadístico o una página web para mantener un historial de cambios y facilitar la comunicación entre los miembros del equipo. Asegúrate de incluir fechas, responsables y detalles específicos para cada corrección.
+A lo largo del proyecto fuimos desarrollando nuestro modelo de aprendizaje automático y nuestra página web, aunque recibimos ayuda de los profesores en diferentes áreas, no recibimos correciones específicas, sin embargo nos encontramos con obstáculos y cambios que se tuvieron que realizar.
+
+Dentro del área del backend se tuvo que añadir el protocolo CORS para poder acceder al modelo
+Dentro del frontend se tuvo que cambiar de estrategia para el cuestionario, ya que al principio pensamos en utilizar tarjetas, pero por la asincronía no nos permitía enviar el json de forma eficiente, por lo que cambiamos a un formulario de una sola página.
+
